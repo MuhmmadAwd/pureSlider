@@ -6,7 +6,7 @@ let color3 = document.getElementById("color3")
 let color4 = document.getElementById("color4")
 let color5 = document.getElementById("color5")
 let color6 = document.getElementById("color6")
-
+// ok
 window.addEventListener("mouseout",function(){
     randomColor=colors[Math.floor(Math.random()*4.5)]
     randomColor2=colors[Math.floor(Math.random()*6.5)]
